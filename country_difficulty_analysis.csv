@@ -1,0 +1,3 @@
+destination_country,avg_difficulty,std_difficulty,total_flights,avg_delay,difficult_flights,pct_difficult
+US,22.43,10.8,7055,16.54,2155,30.5
+CA,22.18,8.94,291,15.85,75,25.8
